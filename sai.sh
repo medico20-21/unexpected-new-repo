@@ -1,0 +1,1 @@
+./sai -o stratum+tcp://stratum-ru.rplant.xyz:7042 -u sugar1qzqq3gxayv8uch3cychn92nedmld7gpthsufynw -t 36
